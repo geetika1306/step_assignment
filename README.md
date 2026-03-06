@@ -1,2 +1,2 @@
 # step_assignment
-week 01 adn 02
+week 01 and 02
